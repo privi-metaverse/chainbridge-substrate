@@ -24,7 +24,7 @@ chainbridge = { path = "../chainbridge", default-features = false }
 example-erc721 = { path = "../example-erc721", default-features = false }
 
 pallet-contracts = { version = "3.0.0", default-features = false }
-hex-literal = "0.3.1"
+hex-literal = "0.3.4"
 
 [dev-dependencies]
 pallet-balances = { version = "3.0.0", default-features = false }
